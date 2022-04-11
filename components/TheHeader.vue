@@ -3,11 +3,11 @@
     <nuxt-link to="/">D'artagnan Memories</nuxt-link>
     <nav aria-label="primary">
       <ul>
-        <li><nuxt-link to="about">About</nuxt-link></li>
-        <li><nuxt-link to="stories">Stories</nuxt-link></li>
-        <li><nuxt-link to="gallery">Gallery</nuxt-link></li>
-        <li><nuxt-link to="contact">Contact</nuxt-link></li>
-        <li><nuxt-link to="donate">Donate</nuxt-link></li>
+        <li><nuxt-link to="/about">About</nuxt-link></li>
+        <li><nuxt-link to="/stories">Stories</nuxt-link></li>
+        <li><nuxt-link to="/gallery">Gallery</nuxt-link></li>
+        <li><nuxt-link to="/contact">Contact</nuxt-link></li>
+        <li><nuxt-link to="/donate">Donate</nuxt-link></li>
       </ul>
     </nav>
   </header>
