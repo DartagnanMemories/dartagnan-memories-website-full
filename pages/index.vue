@@ -39,7 +39,7 @@
             us via our "contact" page.
           </p>
           <p>
-            <a href="contact">Tell us your story.</a>
+            <a href="/contact">Tell us your story.</a>
           </p>
         </aside>
       </article>
