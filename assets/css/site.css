@@ -1,0 +1,67 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+body, html {
+  @apply text-dpurple dark:text-white;
+  @apply bg-white dark:bg-gray-900;
+}
+
+h1 {
+  @apply text-4xl;
+}
+
+h2 {
+  @apply text-3xl;
+}
+
+h3 {
+  @apply text-2xl;
+}
+
+a {
+  @apply underline hover:no-underline;
+}
+
+.image-wrapper {
+  @apply rounded-xl overflow-hidden shadow-md;
+}
+
+.dream-bg {
+  background-image: url("~/assets/adrian-infernus-GLf7bAwCdYg-unsplash.jpg");
+  background-position: top center;
+  background-size: cover;
+  @apply text-white;
+}
+
+@media (prefers-color-scheme: dark) {
+  .dream-bg {
+    background-image: url("~/assets/luke-chesser-3rWagdKBF7U-unsplash.jpg");
+    @apply text-white;
+  }
+}
+
+.content-wrapper {
+  @apply max-w-5xl my-0 mx-auto px-4;
+}
+
+.content {
+  @apply py-4;
+  @apply flex flex-wrap items-start;
+}
+
+.content h2 {
+  @apply my-4;
+}
+
+.content p {
+  @apply my-3 max-w-lg text-lg;
+}
+
+.content p:first-of-type {
+  @apply mt-0;
+}
+
+.content p:last-of-type {
+  @apply mb-0;
+}
