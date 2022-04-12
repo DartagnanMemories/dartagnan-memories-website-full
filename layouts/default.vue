@@ -1,5 +1,6 @@
 <template>
   <div class="wrapper">
+    <VueAnnouncer />
     <a class="skip-to-content-link" href="#main"> Skip to content </a>
     <TheHeader />
     <main id="main">

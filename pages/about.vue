@@ -12,6 +12,11 @@ export default {
     return {
       page
     }
+  },
+  head () {
+    return {
+      title: 'About'
+    }
   }
 }
 </script>

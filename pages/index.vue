@@ -55,6 +55,11 @@ export default {
     return {
       page
     }
+  },
+  head () {
+    return {
+      title: 'Index'
+    }
   }
 }
 </script>

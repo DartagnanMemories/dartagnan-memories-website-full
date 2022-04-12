@@ -7,14 +7,15 @@ export default {
 
   // Global page headers: https://go.nuxtjs.dev/config-head
   head: {
-    title: 'dartagnan-memories-website-full',
+    title: 'D’artagnan Memories',
+    titleTemplate: '%s - D’artagnan Memories',
     htmlAttrs: {
       lang: 'en'
     },
     meta: [
       { charset: 'utf-8' },
       { name: 'viewport', content: 'width=device-width, initial-scale=1' },
-      { hid: 'description', name: 'description', content: '' },
+      { hid: 'description', name: 'description', content: 'This website is a place to remember and celebrate my late guide dog D’artagnan. D’artagnan went to the Rainbow Bridge on 29 March 2022, just nine days after a wonderful gathering to celebrate his 12th birthday and retirement, attended by 70 of his human friends and many canine friends too.' },
       { name: 'format-detection', content: 'telephone=no' }
     ],
     link: [
@@ -29,6 +30,7 @@ export default {
 
   // Plugins to run before rendering page: https://go.nuxtjs.dev/config-plugins
   plugins: [
+    { src: '~/plugins/vue-announcer.js', mode: 'client' }
   ],
 
   // Auto import components: https://go.nuxtjs.dev/config-components
@@ -39,8 +41,7 @@ export default {
     // https://go.nuxtjs.dev/typescript
     '@nuxt/typescript-build',
     // https://go.nuxtjs.dev/tailwindcss
-    '@nuxtjs/tailwindcss',
-    '@nuxtjs/google-fonts'
+    '@nuxtjs/tailwindcss'
   ],
 
   // Modules: https://go.nuxtjs.dev/config-modules
@@ -48,14 +49,6 @@ export default {
     // https://go.nuxtjs.dev/content
     '@nuxt/content'
   ],
-
-  googleFonts: {
-    Inter: {
-      wght: [400, 600, 800]
-    },
-    download: true,
-    overwriting: true
-  },
 
   // Content module configuration: https://go.nuxtjs.dev/config-content
   content: {},
