@@ -33,7 +33,7 @@
               alt="d'artagnan sitting on his sofa with a fluffy pizza dog toy"
             />
           </div>
-          <h2 id="share-your-story">Stories about D'artagnan</h2>
+          <h2 id="share-your-story">If you have a story about D'artagnan</h2>
           <p>
             If you have a story that you would like to share, please send it to
             us via our "contact" page.

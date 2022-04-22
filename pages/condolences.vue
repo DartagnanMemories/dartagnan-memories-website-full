@@ -1,15 +1,13 @@
 <template>
   <Article title="Condolences">
-    <article>
-      <section
-        v-for="message in condolences"
-        :key="message.createdAt"
-        class="py-4 border-b-2"
-      >
-        <h2>From {{ message.from }}</h2>
-        <nuxt-content :document="message" />
-      </section>
-    </article>
+    <section
+      v-for="message in condolences"
+      :key="message.createdAt"
+      class="py-4 border-b-2"
+    >
+      <h2>{{ message.from }}</h2>
+      <nuxt-content :document="message" />
+    </section>
   </Article>
 </template>
 
