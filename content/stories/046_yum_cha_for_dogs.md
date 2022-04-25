@@ -1,6 +1,7 @@
 ---
 title: 'Yum Cha for dogs'
 location: 'D’artagnan the guide dog’s Column'
+createdAt: '2021-07-19'
 ---
 D’artagnan the guide dog here. My mum went for Yum Cha with friends at a restaurant in the city and left me here with Aunty Pam next door. Well, I always enjoy my stays at Aunty Pam. We share mandarins, crisp and cheese and crackers, and she takes me for puddles and here and there in the village. But at 5 pm I had to remind Aunty Pam it was my dinner time. I mean, Aunty Pam was sitting there immobile with my tin of Campbell chicken and vegetables soup in one hand and the tin opener in the other. She was watching a vet show on TV and was entranced by this story about a constipated snake. I had to whack her with my paw’s elbow to get her attention. “Wait a minute,” said Aunty Pam. “I want to know what the vet is going to do about the constipated snake”.
 

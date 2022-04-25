@@ -1,6 +1,7 @@
 ---
 title: 'The Rainbow Bridge'
 location: 'D’artagnan the guide dog’s Column'
+createdAt: '2021-09-27'
 ---
 D’artagnan the guide dog here. Walking around the block with mum one morning, we heard village resident Rae calling out to us. Rae told us her little dog Andi had passed away. Mum was teary at hearing this news, and my eyes were misty too.
 

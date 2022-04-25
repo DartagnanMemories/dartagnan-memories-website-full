@@ -1,6 +1,7 @@
 ---
 title: 'Rats! What is this ‘Lepto’ thing?'
 location: 'D’artagnan the guide dog’s Column'
+createdAt: '2019-07-21'
 ---
 D’artagnan the guide dog here.
 

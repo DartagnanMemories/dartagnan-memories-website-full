@@ -64,3 +64,7 @@ a {
 .content p:last-of-type {
   @apply mb-0;
 }
+
+ul.link-list > li > a {
+  @apply inline-block my-2 text-lg font-bold;
+}

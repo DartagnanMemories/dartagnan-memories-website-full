@@ -1,6 +1,7 @@
 ---
 title: 'D’artagnan’s escapades'
 location: 'D’artagnan the guide dog’s Column'
+createdAt: '2019-10-22'
 ---
 D’artagnan the guide dog here. This month I thought I would go retro and share some past stories of my escapades.
 

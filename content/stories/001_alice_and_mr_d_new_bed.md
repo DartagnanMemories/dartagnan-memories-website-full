@@ -1,6 +1,7 @@
 ---
 title: 'Alice and D’artagnan get a new bed…'
 location: 'D’artagnan the guide dog’s Column'
+createdAt: '2018-06-16'
 ---
 
 Alice is a honey of a girl dog who lives in the area with her mum Jo, who is the sister of Jenny, one of the residents here.

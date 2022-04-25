@@ -1,6 +1,7 @@
 ---
 title: 'D’artagnan is job seeking'
 location: 'D’artagnan the guide dog’s Column'
+createdAt: '2020-07-25'
 ---
 D’artagnan the guide dog here.
 

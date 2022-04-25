@@ -1,6 +1,7 @@
 ---
 title: 'My mum’s skinny dog'
 location: 'D’artagnan the guide dog’s Column'
+createdAt: '2021-11-22'
 ---
 D’artagnan the guide dog here. As my good readers know, I will be hanging-up my guide dog harness at the end of the year. So, my mum has had to get refresher lessons in using her white cane as a mobility aid. Well actually my mum has canes of different colours :a yellow one and an orange one and also a purple one she uses for evening outings when she gets dressed-up and wants to accessorise.
 

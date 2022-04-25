@@ -1,6 +1,7 @@
 ---
 title: 'D’artagnan and the chocolate factory'
 location: 'D’artagnan the guide dog’s Column'
+createdAt: '2020-09-24'
 ---
 D’artagnan the guide dog here.
 

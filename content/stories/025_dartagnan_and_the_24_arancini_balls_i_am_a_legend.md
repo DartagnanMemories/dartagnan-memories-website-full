@@ -1,6 +1,7 @@
 ---
 title: 'I am a legend!'
 location: 'D’artagnan the guide dog’s Column'
+createdAt: '2019-02-20'
 ---
 There are different ways to look at any story. There are the facts; the half-truths; the fabrications; the embellishments; and so on.
 

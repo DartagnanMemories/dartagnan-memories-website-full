@@ -1,6 +1,7 @@
 ---
 title: 'The mysterious disappearance of Pam next door'
 location: 'D’artagnan the guide dog’s Column'
+createdAt: '2021-08-23'
 ---
 D’artagnan the guide dog here. 			
 

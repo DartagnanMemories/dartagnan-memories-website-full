@@ -1,6 +1,7 @@
 ---
 title: 'D’artagnan’s escapades part 2'
 location: 'D’artagnan the guide dog’s Column'
+createdAt: '2021-09-16'
 ---
 Last month I just didn’t have enough space in my column to relate all the tales (tails?) of my escapades.
 

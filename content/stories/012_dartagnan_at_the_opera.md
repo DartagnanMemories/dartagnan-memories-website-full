@@ -1,6 +1,7 @@
 ---
 title: 'D’artagnan at the Opera'
 location: 'D’artagnan the guide dog’s Column'
+createdAt: '2019-01-21'
 ---
 Figaro, Figaro, Figaro…Lalla…Lalla…Lalla…
 

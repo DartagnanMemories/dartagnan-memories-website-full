@@ -1,6 +1,7 @@
 ---
 title: 'D’artagnan’s favourite foods'
 location: 'D’artagnan the guide dog’s Column'
+createdAt: '2018-09-19'
 ---
 People often ask my mum, “What do you feed D’artagnan?”
 

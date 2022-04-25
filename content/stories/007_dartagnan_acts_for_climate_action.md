@@ -1,6 +1,7 @@
 ---
 title: 'D’artagnan acts for climate action'
 location: 'D’artagnan the guide dog’s Column'
+createdAt: '2019-09-21'
 ---
 D’artagnan the guide dog here.
 

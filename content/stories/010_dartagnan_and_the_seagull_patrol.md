@@ -1,6 +1,7 @@
 ---
 title: 'D’artagnan and the Seagull patrol'
 location: 'D’artagnan the guide dog’s Column'
+createdAt: '2021-12-19'
 ---
 D’artagnan the (retired) guide dog here.
 

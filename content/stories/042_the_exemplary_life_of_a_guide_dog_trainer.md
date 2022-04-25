@@ -1,6 +1,7 @@
 ---
 title: 'The exemplary life of a guide dog trainer'
 location: 'D’artagnan the guide dog’s Column'
+createdAt: '2020-09-01'
 ---
 D’artagnan the guide dog here.
 

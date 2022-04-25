@@ -1,6 +1,7 @@
 ---
 title: 'D’artagnan’s Christmas'
 location: 'D’artagnan the guide dog’s Column'
+createdAt: '2020-12-26'
 ---
 D’artagnan the guide dog here. I hope all my village friends had a good Christmas, despite that COVID thing still lurking around. My mum and her brother have kept a French tradition of having a Christmas dinner on Christmas Eve. Mum had ordered turkey rissoles for my dinner from Coles Online, but they were out of stock, so Coles delivered chicken and cheese patties instead.
 

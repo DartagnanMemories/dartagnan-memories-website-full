@@ -1,6 +1,7 @@
 ---
 title: 'Chicken and Chips'
 location: 'D’artagnan the guide dog’s Column'
+createdAt: '2021-01-20'
 ---
 Our neighbour Pam surprises us occasionally with home-cooked chips, piping hot just out of her 	oven, wrapped in greaseproof paper.
 

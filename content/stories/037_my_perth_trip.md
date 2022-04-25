@@ -1,6 +1,7 @@
 ---
 title: 'My Perth trip'
 location: 'D’artagnan the guide dog’s Column'
+createdAt: '2020-02-29'
 ---
 D’artagnan the guide dog here. In February mum had to go to Perth to attend a conference on digital accessibility. So here we were at Sydney Airport with Aunty Robyn and Aunty Jo, and mum decides I should go have one last pipi before boarding the plane. Well Sydney Airport has just built a new indoor “Assistant dogs’ toilet”. That’s very considerate. But Aunty Jo opened the door and I stepped in and thought, “Oh no”. It’s the size of a shower cubicle and it has fake grass and …a fake red fire hydrant! “Uh, I’ll hold”, I said. Of course, I had no idea that Perth was on the other side of Australia.
 

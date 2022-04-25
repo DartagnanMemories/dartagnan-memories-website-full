@@ -1,6 +1,7 @@
 ---
 title: 'D’artagnan’s New Year’s Resolutions'
 location: 'D’artagnan the guide dog’s Column'
+createdAt: '2019-12-20'
 ---
 D’artagnan the guide dog here. For my first column in 2020, I thought I would share my New Year’s resolutions.
 

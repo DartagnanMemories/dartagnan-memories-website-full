@@ -1,6 +1,7 @@
 ---
 title: 'My namesake'
 location: 'D’artagnan the guide dog’s Column'
+createdAt: '2020-01-21'
 ---
 D’artagnan the guide dog here.
 

@@ -1,6 +1,7 @@
 ---
 title: 'My poor paws'
 location: 'D’artagnan the guide dog’s Column'
+createdAt: '2021-07-24'
 ---
 D’artagnan the guide dog here. Okay, I really wanted to talk about something else than COVID for my column this month, but it’s the talk of the moment so I may as well join-in the chorus.
 

@@ -1,6 +1,7 @@
 ---
 title: 'D’artagnan has his say on the New Normal'
 location: 'D’artagnan the guide dog’s Column'
+createdAt: '2020-11-22'
 ---
 D’artagnan the guide dog here.
 

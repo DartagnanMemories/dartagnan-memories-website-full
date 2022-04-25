@@ -1,6 +1,7 @@
 ---
 title: 'D’artagnan on the Coronavirus Part 2'
 location: 'D’artagnan the guide dog’s Column'
+createdAt: '2020-04-25'
 ---
 D’artagnan the guide dog here. Well there is little else to write about these days than the new ‘Big C’: COVID-19
 

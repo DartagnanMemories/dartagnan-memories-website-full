@@ -1,6 +1,7 @@
 ---
 title: 'At Black Wattle Bay'
 location: 'D’artagnan the guide dog’s Column'
+createdAt: '2019-04-22'
 ---
 D’artagnan the guide dog here.
 

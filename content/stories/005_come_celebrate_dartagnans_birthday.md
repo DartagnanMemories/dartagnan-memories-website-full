@@ -1,6 +1,7 @@
 ---
 title: 'Come Celebrate D’artagnan’s birthday and retirement!'
 location: 'D’artagnan the guide dog’s Column'
+createdAt: '2022-03-27'
 ---
 D’artagnan the(retired) guide dog here.
 

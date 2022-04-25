@@ -1,6 +1,7 @@
 ---
 title: 'D’artagnan and the No. 2 Ladies Detective Agency'
 location: 'D’artagnan the guide dog’s Column'
+createdAt: '2019-05-17'
 ---
 Disclaimer: I humbly apologise to author Alexander McCall Smith for this tongue-in-cheek spin-off on his popular book series. Please don’t sue me: D’artagnan the guide dog.
 

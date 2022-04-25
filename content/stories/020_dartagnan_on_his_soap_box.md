@@ -1,6 +1,7 @@
 ---
 title: 'Mr D on his soap box'
 location: 'D’artagnan the guide dog’s Column'
+createdAt: '2020-06-26'
 ---
 D’artagnan the guide dog here.
 

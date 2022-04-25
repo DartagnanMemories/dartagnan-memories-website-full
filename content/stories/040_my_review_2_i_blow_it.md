@@ -1,6 +1,7 @@
 ---
 title: 'I blow it'
 location: 'D’artagnan the guide dog’s Column'
+createdAt: '2021-10-23'
 ---
 D’artagnan the guide dog here. These days many people comment on my grey whiskers. Yes, at 11 and a ½ dog years, according to modern canine gerontology I am now 70-something.
 

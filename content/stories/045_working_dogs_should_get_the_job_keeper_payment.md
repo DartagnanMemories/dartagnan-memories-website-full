@@ -1,6 +1,7 @@
 ---
 title: 'Working dogs should get the job keeper payment!'
 location: 'D’artagnan the guide dog’s Column'
+createdAt: '2020-05-24'
 ---
 D’artagnan the guide dog here. The other day when I was lounging on the sofa listening to ABC radio National, I heard on the news that the government had overestimated its ‘job keeper’ budget by a whopping $60 billion dollars. So, I wrote this letter to the treasurer, the Hon Josh Frydenberg MP:
 

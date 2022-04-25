@@ -1,6 +1,7 @@
 ---
 title: 'Dog trivia'
 location: 'D’artagnan the guide dog’s Column'
+createdAt: '2022-01-23'
 ---
 D’artagnan the (retired) guide dog here.
 

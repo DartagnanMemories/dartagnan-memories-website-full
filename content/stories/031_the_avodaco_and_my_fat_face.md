@@ -1,6 +1,7 @@
 ---
 title: 'My fat face'
 location: 'D’artagnan the guide dog’s Column'
+createdAt: '2019-06-22'
 ---
 D’artagnan the guide dog here.
 

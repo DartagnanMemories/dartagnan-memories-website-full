@@ -1,6 +1,7 @@
 ---
 title: 'D’artagnan in Melbourne'
 location: 'D’artagnan the guide dog’s Column'
+createdAt: '2018-08-21'
 ---
  As a guide dog I get to go everywhere my mum goes.
 

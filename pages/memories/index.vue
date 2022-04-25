@@ -1,6 +1,6 @@
 <template>
   <Article title="Memories">
-    <ul>
+    <ul class="link-list">
       <li><nuxt-link to="/memories/stories">Stories by D'artagnan</nuxt-link></li>
       <li><nuxt-link to="/memories/condolences">Condolences</nuxt-link></li>
       <li><nuxt-link to="/memories/poems">Poems</nuxt-link></li>

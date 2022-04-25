@@ -1,6 +1,7 @@
 ---
 title: 'D’artagnan’s toy box'
 location: 'D’artagnan the guide dog’s Column'
+createdAt: '2018-12-15'
 ---
 I racked my dog’s brain out for a Christmas-theme topic for my column this month.
 

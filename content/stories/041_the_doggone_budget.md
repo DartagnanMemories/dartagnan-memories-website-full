@@ -1,6 +1,7 @@
 ---
 title: 'The doggone budget'
 location: 'D’artagnan the guide dog’s Column'
+createdAt: '2021-05-21'
 ---
 D’artagnan the guide dog here.
 

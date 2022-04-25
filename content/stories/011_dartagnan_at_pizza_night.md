@@ -1,5 +1,6 @@
 ---
 title: 'D’artagnan at pizza night'
 location: 'D’artagnan the guide dog’s Column'
+createdAt: '2018-11-19'
 ---
 I’m a Labrador, so it’s in my DNA to eat, eat and eat! So when Finola from the café put on a pizza night, I said to mum, ‘Yay! Let’s go!”. At first mum said, “no”. But Aunty Jenny persuaded mum to go. I tagged along, tail wagging. Oh what a night! Fresh air, good company and pizza, pizza, pizza! First came the Marguerita; then one with mushrooms; then one with salami; then one with ham an pineapple; then one with potato…it was Such a change from my usual Brussel sprouts and sardines dinner (although I ate that too before the pizza feast). Mum gave me a bit of each pizza she tried, and then I went to the other aunties that sat with us and stared at them with my doleful ‘I’m starving’ eyes. It worked: I got more pizza. For dessert we had ice cream cones with a choice of toppings. Mum chose the boysenberry and shared it with me, but I got a taste of the other flavours too! When Finola heard what a little piggy I was, she said that next time she would charge for my food. Humph!I will have to bring along one of those guide dog money boxes and pass it around. You won’t mind chucking in a coin each for this poor , starving guide dog, will you? Thanks Finola and the girls for a great night. So what about a hot dog night? My idea: do I get a free feed?

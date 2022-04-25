@@ -1,6 +1,7 @@
 ---
 title: 'Mr D job opportunities'
 location: 'D’artagnan the guide dog’s Column'
+createdAt: '2020-07-09'
 ---
 - Day and night food spillage clean up service
 - “not a morsel or drop left behind”

@@ -1,6 +1,7 @@
 ---
 title: 'D’artagnan on the Coronavirus'
 location: 'D’artagnan the guide dog’s Column'
+createdAt: '2020-03-25'
 ---
 D’artagnan the guide dog here.
 

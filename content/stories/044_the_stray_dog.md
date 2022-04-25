@@ -1,6 +1,7 @@
 ---
 title: 'D’artagnan and the stray dog'
 location: 'D’artagnan the guide dog’s Column'
+createdAt: '2018-07-21'
 ---
 Warning: sad story.
 
