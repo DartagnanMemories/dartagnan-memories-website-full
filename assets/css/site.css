@@ -47,7 +47,6 @@ a {
 
 .content {
   @apply py-4;
-  @apply flex flex-wrap items-start;
 }
 
 .content h2 {

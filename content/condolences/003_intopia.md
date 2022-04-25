@@ -1,5 +1,5 @@
 ---
-from: 'the Intopia team'
+from: 'The Intopia team'
 featured: true
 ---
 

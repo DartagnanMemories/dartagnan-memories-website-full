@@ -1,12 +1,12 @@
 <template>
-  <Article title="Donate" />
+  <Article title="Videos" />
 </template>
 
 <script>
 export default {
   head () {
     return {
-      title: 'Donate'
+      title: 'Videos'
     }
   }
 }

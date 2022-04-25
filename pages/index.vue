@@ -22,12 +22,12 @@
     </div>
     <div class="content-wrapper after-overhang">
       <article class="content">
-        <div class="half">
+        <div>
           <h2 class="sr-only">About this site</h2>
           <nuxt-content :document="page" />
         </div>
-        <aside aria-labelledby="share-your-story" class="half">
-          <div class="image-wrapper">
+        <aside aria-labelledby="share-your-story" class="mt-8">
+          <div class="image-wrapper w-96">
             <img
               src="~/assets/img/dartagnan on sofa with his fluffy pizza dog toy.jpg"
               alt="d'artagnan sitting on his sofa with a fluffy pizza dog toy"
@@ -58,7 +58,7 @@ export default {
   },
   head () {
     return {
-      title: 'Index'
+      title: 'Home'
     }
   }
 }
@@ -113,15 +113,4 @@ export default {
   }
 }
 
-.content > .half {
-  @apply w-full md:w-1/2;
-}
-
-.content > .half:first-child {
-  @apply mt-4 md:mt-0 md:pr-4;
-}
-
-.content > .half:last-child {
-  @apply mb-4 md:mb-0 md:pl-4; /* aside */
-}
 </style>
