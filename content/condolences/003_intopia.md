@@ -10,7 +10,7 @@ Chris said:
 Oh, that is so sad.
 
 Charlii said:
-my heart. 
+my heart.
 I guess he knew his work here was done.
 
 Tess said:

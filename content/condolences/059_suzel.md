@@ -2,6 +2,6 @@
 from: 'Suzel'
 ---
 
-I am sorry to hear about the sad news. 
+I am sorry to hear about the sad news.
 
 Take courage. 
