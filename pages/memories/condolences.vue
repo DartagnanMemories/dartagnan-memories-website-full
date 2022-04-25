@@ -6,12 +6,30 @@
       <p>D’artagnan and I are blessed to have each of you in our life here on Earth and beyond.</p>
       <p>If you would like to add your condolences to this page, please email <a href="mailto:messages@DartagnanMemories.og">messages@DartagnanMemories.org</a></p>
     </div>
+    <div class="mb-8">
+      <h2 id="toc">Messages</h2>
+      <nav aria-labelledby="toc">
+        <ul class="link-list">
+          <li
+            v-for="(message, i) in condolences"
+            :key="message.createdAt"
+          >
+            <a :href="`#${message.slug}`">{{ i+1 }}. {{ message.from }}</a>
+          </li>
+        </ul>
+      </nav>
+    </div>
     <div
       v-for="message in condolences"
       :key="message.createdAt"
       class="pt-2 pb-8 border-t-2"
     >
-      <h2>{{ message.from }}</h2>
+      <div class="flex gap-4 items-baseline">
+        <h2 :id="message.slug">
+          {{ message.from }}
+        </h2>
+        <a v-if="$route.hash == `#${message.slug}`" href="#toc"> Back to top</a>
+      </div>
       <nuxt-content :document="message" />
       <div v-if="message.hasImage" class="text-left mt-4">
         <p :id="'img-' + message.createdAt" class="italic">Photo: {{ message.imgAlt }}.</p>

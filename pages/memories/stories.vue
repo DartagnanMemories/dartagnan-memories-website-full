@@ -24,6 +24,9 @@
         </h2>
         <a v-if="$route.hash == `#${story.slug}`" href="#toc"> Back to top</a>
       </div>
+      <div class="mb-4">
+        <p class="font-semibold">{{ story.createdAt | niceDate }}</p>
+      </div>
       <nuxt-content :document="story" />
     </div>
   </Article>
@@ -31,6 +34,14 @@
 
 <script>
 export default {
+  filters: {
+    niceDate (value) {
+      const date = new Date(value)
+      const options = { weekday: 'long', year: 'numeric', month: 'long', day: 'numeric' }
+
+      return date.toLocaleString('en-AU', options)
+    }
+  },
   async asyncData ({ $content }) {
     const stories = await $content('stories')
       .sortBy('createdAt', 'asc')

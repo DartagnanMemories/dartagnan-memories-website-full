@@ -66,5 +66,5 @@ a {
 }
 
 ul.link-list > li > a {
-  @apply inline-block my-2 text-lg font-bold;
+  @apply inline-block my-2 text-lg font-semibold;
 }
