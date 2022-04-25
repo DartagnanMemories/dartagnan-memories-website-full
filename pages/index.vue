@@ -35,11 +35,7 @@
           </div>
           <h2 id="share-your-story">If you have a story about D'artagnan</h2>
           <p>
-            If you have a story that you would like to share, please send it to
-            us via our "contact" page.
-          </p>
-          <p>
-            <a href="/contact">Tell us your story.</a>
+            D’artagnan was loved by many. Anyone who has a recollection about D’artagnan that they would like to share, please email your anecdotes, messages, photos, or any questions to <a href="mailto:messages@DartagnanMemories.og">messages@DartagnanMemories.org</a>.
           </p>
         </aside>
       </article>
