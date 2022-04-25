@@ -50,7 +50,7 @@ a {
 }
 
 .content h2 {
-  @apply my-4;
+  @apply my-4 max-w-lg;
 }
 
 .content p {
