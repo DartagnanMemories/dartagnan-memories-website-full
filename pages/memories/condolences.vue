@@ -7,7 +7,7 @@
       <p>If you would like to add your condolences to this page, please email <a href="mailto:messages@DartagnanMemories.og">messages@DartagnanMemories.org</a></p>
     </div>
     <div class="mb-8">
-      <h2 id="toc">Messages</h2>
+      <h2 id="toc">Sender List</h2>
       <nav aria-labelledby="toc">
         <ul class="link-list">
           <li
@@ -42,9 +42,21 @@
 <script>
 export default {
   async asyncData ({ $content }) {
-    const condolences = await $content('condolences')
+    let condolences = []
+
+    const featured = await $content('condolences')
+      .where({ featured: true })
       .sortBy('createdAt', 'asc')
       .fetch()
+
+    condolences = condolences.concat(featured)
+
+    const others = await $content('condolences')
+      .where({ featured: { $ne: true } })
+      .sortBy('from', 'asc')
+      .fetch()
+
+    condolences = condolences.concat(others)
 
     return {
       condolences
