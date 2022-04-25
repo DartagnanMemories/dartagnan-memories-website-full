@@ -1,5 +1,5 @@
 <template>
-  <Article title="Stories">
+  <Article title="Stories by D'artagnan">
     <div class="mb-8">
       <h2>Table of contents</h2>
       <nav aria-labelledby="table-of-contents">
