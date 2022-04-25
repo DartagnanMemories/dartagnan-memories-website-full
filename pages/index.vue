@@ -27,7 +27,7 @@
           <nuxt-content :document="page" />
         </div>
         <aside aria-labelledby="share-your-story" class="mt-8">
-          <div class="image-wrapper w-96">
+          <div class="image-wrapper w-full sm:w-64 md:w-80">
             <img
               src="~/assets/img/dartagnan on sofa with his fluffy pizza dog toy.jpg"
               alt="d'artagnan sitting on his sofa with a fluffy pizza dog toy"
