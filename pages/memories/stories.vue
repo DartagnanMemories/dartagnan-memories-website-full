@@ -1,7 +1,9 @@
 <template>
   <Article title="Stories by D'artagnan">
     <div class="mb-8">
-      <h2 id="toc">Table of contents</h2>
+      <h2 id="toc">
+        Table of contents
+      </h2>
       <nav aria-labelledby="toc">
         <ul class="link-list">
           <li
