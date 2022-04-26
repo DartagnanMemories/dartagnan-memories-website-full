@@ -54,7 +54,8 @@ a {
 }
 
 .content p {
-  @apply my-3 max-w-lg text-lg;
+  @apply my-3 max-w-xl text-lg;
+  line-height: 2rem;
 }
 
 .content p:first-of-type {
