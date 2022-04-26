@@ -1,5 +1,8 @@
 <template>
   <Article title="Poems">
+    <div class="mb-4">
+      <p>Poetry is a wonderful medium to express our feelings. This page has been created  for your poetic homages to D’artagnan. You may draw your inspiration from your own heart or from the memories published on this website, or a photo.</p>
+    </div>
     <div
       v-for="poem in poems"
       :key="poem.createdAt"
@@ -13,6 +16,7 @@
       </div>
       <div class="mb-4">
         <p class="font-semibold">From {{ poem.author }}</p>
+        <p class="italic">{{ poem.description }}</p>
       </div>
       <nuxt-content :document="poem" />
     </div>
