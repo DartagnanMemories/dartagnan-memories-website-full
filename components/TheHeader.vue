@@ -2,6 +2,7 @@
   <header class="header">
     <nuxt-link to="/">D'artagnan Memories</nuxt-link>
     <nav aria-label="primary">
+      <h2 class="sr-only">Content</h2>
       <ul>
         <li><nuxt-link to="/about">About</nuxt-link></li>
         <li><nuxt-link to="/memories">Memories</nuxt-link></li>
