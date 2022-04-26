@@ -7,7 +7,7 @@ export default {
 
   // Global page headers: https://go.nuxtjs.dev/config-head
   head: {
-    title: 'D’artagnan Memories',
+    title: 'Home',
     titleTemplate: '%s - D’artagnan Memories',
     htmlAttrs: {
       lang: 'en'
@@ -16,7 +16,14 @@ export default {
       { charset: 'utf-8' },
       { name: 'viewport', content: 'width=device-width, initial-scale=1' },
       { hid: 'description', name: 'description', content: 'This website is a place to remember and celebrate my late guide dog D’artagnan. D’artagnan went to the Rainbow Bridge on 29 March 2022, just nine days after a wonderful gathering to celebrate his 12th birthday and retirement, attended by 70 of his human friends and many canine friends too.' },
-      { name: 'format-detection', content: 'telephone=no' }
+      { name: 'format-detection', content: 'telephone=no' },
+      { name: 'og:title', content: 'D’artagnan Memories' },
+      { name: 'og:description', content: 'This website is a place to remember and celebrate my late guide dog D’artagnan. D’artagnan went to the Rainbow Bridge on 29 March 2022, just nine days after a wonderful gathering to celebrate his 12th birthday and retirement, attended by 70 of his human friends and many canine friends too.' },
+      { name: 'og:image', content: '/_nuxt/img/Mr D sitting up with bowtie looking at food table.9b99e5a.jpeg' },
+      { name: 'twitter:title', content: 'D’artagnan Memories' },
+      { name: 'twitter:description', content: 'This website is a place to remember and celebrate my late guide dog D’artagnan. D’artagnan went to the Rainbow Bridge on 29 March 2022, just nine days after a wonderful gathering to celebrate his 12th birthday and retirement, attended by 70 of his human friends and many canine friends too.' },
+      { name: 'twitter:image', content: '/_nuxt/img/Mr D sitting up with bowtie looking at food table.9b99e5a.jpeg' },
+      { name: 'twitter:card', content: '/_nuxt/img/Mr D sitting up with bowtie looking at food table.9b99e5a.jpeg' }
     ],
     link: [
       { rel: 'icon', type: 'image/x-icon', href: '/favicon.ico' }
