@@ -19,11 +19,11 @@ export default {
       { name: 'format-detection', content: 'telephone=no' },
       { name: 'og:title', content: 'D’artagnan Memories' },
       { name: 'og:description', content: 'This website is a place to remember and celebrate my late guide dog D’artagnan. D’artagnan went to the Rainbow Bridge on 29 March 2022, just nine days after a wonderful gathering to celebrate his 12th birthday and retirement, attended by 70 of his human friends and many canine friends too.' },
-      { name: 'og:image', content: '/Mr D sitting up with bowtie looking at food table.jpeg' },
+      { name: 'og:image', content: 'https://dartagnanmemories.org/img/Mr D sitting up with bowtie looking at food table.jpeg' },
       { name: 'twitter:title', content: 'D’artagnan Memories' },
       { name: 'twitter:description', content: 'This website is a place to remember and celebrate my late guide dog D’artagnan. D’artagnan went to the Rainbow Bridge on 29 March 2022, just nine days after a wonderful gathering to celebrate his 12th birthday and retirement, attended by 70 of his human friends and many canine friends too.' },
-      { name: 'twitter:image', content: '/Mr D sitting up with bowtie looking at food table.jpeg' },
-      { name: 'twitter:card', content: 'summary' },
+      { name: 'twitter:image', content: 'https://dartagnanmemories.org/img/Mr D sitting up with bowtie looking at food table.jpeg' },
+      { name: 'twitter:card', content: 'summary_large_image' },
       { name: 'twitter:image:alt', content: 'D\'artagnan a black guide dog with grey whiskers and a fun purple bowtie, sitting, looking at the food table!' }
     ],
     link: [
