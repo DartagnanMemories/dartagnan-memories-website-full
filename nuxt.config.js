@@ -21,7 +21,7 @@ export default {
       { name: 'author', content: 'Gisele Mesnage' },
       { name: 'format-detection', content: 'telephone=no' },
       { name: 'title', property: 'og:title', content: 'D’artagnan Memories' },
-      { name: 'description', property: 'og:description' content: 'This website is a place to remember and celebrate my late guide dog D’artagnan. D’artagnan went to the Rainbow Bridge on 29 March 2022, just nine days after a wonderful gathering to celebrate his 12th birthday and retirement, attended by 70 of his human friends and many canine friends too.' },
+      { name: 'description', property: 'og:description', content: 'This website is a place to remember and celebrate my late guide dog D’artagnan. D’artagnan went to the Rainbow Bridge on 29 March 2022, just nine days after a wonderful gathering to celebrate his 12th birthday and retirement, attended by 70 of his human friends and many canine friends too.' },
       { name: 'twitter:title', content: 'D’artagnan Memories' },
       { name: 'twitter:description', content: 'This website is a place to remember and celebrate my late guide dog D’artagnan. D’artagnan went to the Rainbow Bridge on 29 March 2022, just nine days after a wonderful gathering to celebrate his 12th birthday and retirement, attended by 70 of his human friends and many canine friends too.' },
       { name: 'twitter:image', content: 'https://dartagnanmemories.org/img/dmemories-twitter-preview.png' },
