@@ -1,5 +1,8 @@
 <template>
   <Article title="Stories by D'artagnan">
+    <div class="mb-4">
+      <p>During his time living at our retirement village, D’artagnan has his own column in the village monthly newsletter, “The Grapevine”. In these musings, he wrote about his life and his views on the issues of the day. The column was popular with village residents, his “good readers”, who would often stop us when we were on our block walk and would comment on his latest story. Here is a collection of these musings we now share with the good readers of his tribute website.</p>
+    </div>
     <div class="mb-8">
       <h2 id="toc">
         Table of contents
