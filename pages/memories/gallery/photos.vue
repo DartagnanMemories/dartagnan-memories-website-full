@@ -10,7 +10,7 @@
           <div class="w-full h-96 rounded-lg overflow-hidden group-hover:opacity-75 sm:h-auto sm:aspect-w-2 sm:aspect-h-3">
             <img :src="require(`/assets/gallery/photos/${photo.img}`)" :alt="photo.title" class="w-full h-full object-center object-cover" />
           </div>
-          <h3 class="my-4 text-base font-semibold text-gray-900">
+          <h3 class="my-4 text-base font-semibold">
             {{ photo.title }}
           </h3>
         </div>
