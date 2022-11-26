@@ -6,7 +6,7 @@
       </li>
       <li><nuxt-link to="/memories/condolences">Condolences</nuxt-link></li>
       <li><nuxt-link to="/memories/poems">Poems</nuxt-link></li>
-      <li><nuxt-link to="/memories/anecdotes">Articles</nuxt-link></li>
+      <li><nuxt-link to="/memories/articles">Articles</nuxt-link></li>
       <li><nuxt-link to="/memories/anecdotes">Anecdotes</nuxt-link></li>
       <li><nuxt-link to="/memories/gallery/photos">Photos</nuxt-link></li>
       <li><nuxt-link to="/memories/gallery/videos">Videos</nuxt-link></li>
